@@ -1,2 +1,2 @@
-﻿# FinSweet-Project
-This project comprises the landing page for now
+# FinSweet-Project
+This project comprise the landing page for now
